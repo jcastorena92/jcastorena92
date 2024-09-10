@@ -3,7 +3,7 @@
 
 
 - 🔭 I used to work with CFD, especifically with **OpenFOAM's source code**, as part of my academic background
-- 🌱 I’m now currently learning on translation & localization, as part of my passion for languages
+- 🌱 I’m now currently learning on translation & localization, as part of my passion for languages combined with my experience in programming 
 - 👯 I’m looking to collaborate on localization industry
 - 🤔 I’m looking for help with understanding web and software localization
 - 📫 How to reach me: www.linkedin.com/in/juan-carlos-casava
