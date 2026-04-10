@@ -1,4 +1,4 @@
-# Hi, I'm Juan Carlos
+# Hi, I'm Juan Carlos!
 
 I come from a technical background in Computational Fluid Dynamics (CFD) and numerical methods, where I worked directly with source code.
 
