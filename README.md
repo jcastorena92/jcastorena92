@@ -1,4 +1,4 @@
-# Hi, I'm Juan Carlos 👋
+# Hi, I'm Juan Carlos
 
 I come from a technical background in Computational Fluid Dynamics (CFD) and numerical methods, where I worked directly with source code.
 
@@ -13,7 +13,7 @@ Rather than treating localization as purely linguistic work, I approach it as a 
 
 ---
 
-## 🔬 Current Technical Focus
+## Current Technical Focus
 
 Alongside my studies in Translation & Interpreting, I am building structured Python projects to strengthen:
 
@@ -33,7 +33,7 @@ I am particularly interested in:
 
 ---
 
-## 🧠 Engineering Mindset Applied to Language
+## Why I Approach Language Work Technically
 
 My career transition is not a move away from engineering —  
 it is an intentional shift toward applying **engineering rigor to language systems**.
@@ -42,5 +42,4 @@ I am currently designing structured linguistic pipelines based on JSON-driven ge
 
 ---
 
-📫 LinkedIn: https://www.linkedin.com/in/juan-carlos-casava  
-⚡ Mindset: The more you fail, the more likely you are to succeed.
+## LinkedIn: https://www.linkedin.com/in/juan-carlos-casava
