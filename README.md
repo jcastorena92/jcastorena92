@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jcastorena92/jcastorena92/main/banner2.png" alt="Localization Engineering Banner" width="100%">
-</p>
 
 # Hi, I'm Juan Carlos!
 
