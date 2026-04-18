@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcastorena92/jcastorena92/main/banner2.png" alt="Localization Engineering Banner" width="100%">
+</p>
 # Hi, I'm Juan Carlos!
 
 I come from a technical background in Computational Fluid Dynamics (CFD) and numerical methods, where I worked directly with source code.
