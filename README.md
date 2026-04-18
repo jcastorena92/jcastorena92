@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Localization Engineering Banner" width="100%">
+  <img src="banner2.png" alt="Localization Engineering Banner" width="100%" style="max-height: 300px; object-fit: cover;">
 </p>
 
 # Hi, I'm Juan Carlos!
