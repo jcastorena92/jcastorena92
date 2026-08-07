@@ -1,56 +1,43 @@
-# Banner Design — Localization Engineering
+# Profile Banners
 
 ## Author
+
 Juan Carlos Castorena Avalos
-Date: 2026-04-18
+
+Originally documented: 2026-04-18  
+Updated: 2026-08-07
 
 ## Overview
 
-This banner was created as part of my transition into Localization Engineering, combining engineering systems thinking with language and translation workflows.
+These banner assets are used for my GitHub and LinkedIn profiles.
 
-Two versions are used for different platforms:
+The current visual direction reflects my studies and interest in localization, translation, and language-related work.
 
-- GitHub profile (compact format)
-- LinkedIn banner (full-width format)
+Two versions are adapted for their respective platforms:
 
-## GitHub Version
+- GitHub profile banner
+- LinkedIn profile banner
 
-![GitHub Banner](../banner_github.png)
+## Current Design
 
-## LinkedIn Version
+The current banners use a simple visual theme centered on language, communication, and international contexts.
 
-![LinkedIn Banner](../banner_linkedin.png)
+The designs are intentionally kept clean and adapted to the dimensions and layout of each platform.
 
-## Design Concept
+## Creation
 
-The composition combines:
+The current versions were created with AI-assisted image generation based on prompts and iterative visual direction provided by the author.
 
-- Earth from space → global systems and scale  
-- Bridge imagery → connection between engineering and language  
-- Code elements → software, automation, and technical workflows  
+The resulting images were selected and adapted for use on the respective profile platforms.
 
-The visual direction prioritizes clarity, readability, and professional consistency over decorative or artificial effects.
+No third-party stock images were manually incorporated into the current versions.
 
-## Design Decisions
+## Historical Versions
 
-The LinkedIn banner was refined to reduce visual noise and remove elements that could appear inconsistent or artificially generated.
+Earlier banner versions used a different visual direction and included third-party source material.
 
-This ensures a more credible and technically aligned presentation.
-
-## Assets (external sources)
-
-- Earth image  
-  Photo by **Mara F**  
-  https://unsplash.com/es/fotos/vista-de-la-tierra-desde-el-espacio-por-la-noche-tZdFQvqJuQQ
-
-- Programming image  
-  Photo by **Ilya Pavlov**  
-  https://unsplash.com/es/fotos/monitor-showing-java-programming-OqtafYT5kTw
-
-## License
-
-Images sourced from Unsplash and used under the Unsplash License.
+Their previous documentation and attributions remain available through the repository history.
 
 ## Notes
 
-All composition, editing, platform adaptation, and final design decisions were made by the author.
+Final selection, platform adaptation, and publication decisions were made by the author.
